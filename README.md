@@ -28,7 +28,7 @@ O objetivo principal deste notebook é explorar um desafio avançado de aprendiz
 
 ## Requisitos
 Certifique-se de ter as bibliotecas necessárias instaladas. Caso contrário, você pode instalá-las usando:
-  pip install -r requirements.txt
+++ pip install -r requirements.txt
 
 ## Execução do Notebook
 Certifique-se de executar cada célula do notebook sequencialmente para garantir que todas as dependências e operações estejam carregadas adequadamente.
